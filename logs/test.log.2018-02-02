@@ -1,0 +1,380 @@
+2018-02-02 16:13:53,757 ERROR main [Tools.SendEmail.SendMail]error 读取邮件配置信息失败
+2018-02-02 16:25:01,585 ERROR main [Tools.SendEmail.SendMail]error 读取邮件配置信息失败
+2018-02-02 16:45:09,678 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 18:11:45,097 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 18:13:14,486 INFO main [Tools.SendEmail.SendMail]info 发送邮件成功！
+2018-02-02 18:17:01,351 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 18:18:18,383 INFO main [Tools.SendEmail.SendMail]info 发送邮件成功！
+2018-02-02 18:19:52,430 INFO main [Tools.SendEmail.SendMail]info 发送邮件成功！
+2018-02-02 18:48:05,737 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 18:48:22,060 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 18:49:14,789 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 18:51:24,637 ERROR main [Tools.SendEmail.SendMail]error 发送邮件失败！
+2018-02-02 19:08:06,850 INFO main [Tools.SendEmail.SendMail]info 发送邮件成功！
+2018-02-02 19:31:59,561 INFO main [Tools.Tool.mydate]info 0202193159
+2018-02-02 19:31:59,563 INFO main [Tools.Tool.mydate]info 1802021931
+2018-02-02 19:31:59,715 INFO main [Tools.Tool.mydate]info ------------------开始执行测试---------------
+2018-02-02 19:32:07,706 INFO main [Tools.Tool.mydate]info 火狐已经打开！
+2018-02-02 19:32:08,180 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:32:08,374 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:32:08,442 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:32:13,546 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:32:13,564 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:32:13,573 INFO main [Tools.Tool.mydate]info *************创建产品开始测试*************
+2018-02-02 19:32:13,673 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:32:13,788 INFO main [Tools.Tool.mydate]info 点击点击创建产品
+2018-02-02 19:32:15,084 INFO main [Tools.Tool.mydate]info 进入iframe-container-55成功
+2018-02-02 19:32:15,172 INFO main [Tools.Tool.mydate]info 点击By.id: LangToggle
+2018-02-02 19:32:16,173 INFO main [Tools.Tool.mydate]info 15180
+2018-02-02 19:32:16,337 INFO main [Tools.Tool.mydate]info 输入：商业及工业
+2018-02-02 19:32:18,439 INFO main [Tools.Tool.mydate]info 输入：办公用品
+2018-02-02 19:32:20,544 INFO main [Tools.Tool.mydate]info 输入：钢笔
+2018-02-02 19:32:22,603 INFO main [Tools.Tool.mydate]info 在By.id: product_title输入：pro15180
+2018-02-02 19:32:22,766 INFO main [Tools.Tool.mydate]info 在By.id: product_sku输入：SUK15180
+2018-02-02 19:32:22,840 INFO main [Tools.Tool.mydate]info 在By.id: reference_no输入：BH15180
+2018-02-02 19:32:22,892 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_value输入：100
+2018-02-02 19:32:22,954 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name_zh输入：测试产品15180
+2018-02-02 19:32:23,024 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name输入：product15180
+2018-02-02 19:32:23,095 INFO main [Tools.Tool.mydate]info 在By.id: hs_code输入：HGBM15180
+2018-02-02 19:32:23,591 INFO main [Tools.Tool.mydate]info By.name: product_package_type下拉框选择了第0个值
+2018-02-02 19:32:23,666 INFO main [Tools.Tool.mydate]info 在By.id: product_length输入：15.00
+2018-02-02 19:32:23,861 INFO main [Tools.Tool.mydate]info 在By.id: product_width输入：20.00
+2018-02-02 19:32:23,959 INFO main [Tools.Tool.mydate]info 在By.id: product_height输入：25.00
+2018-02-02 19:32:24,154 INFO main [Tools.Tool.mydate]info By.id: contain_battery下拉框选择了第2个值
+2018-02-02 19:32:24,273 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:32:24,448 INFO main [Tools.Tool.mydate]info 点击By.id: SWFUpload_0
+2018-02-02 19:32:26,449 INFO main [Tools.Tool.mydate]info 已选择上传文件,路径为：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:32:34,205 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：3.000
+2018-02-02 19:32:34,313 INFO main [Tools.Tool.mydate]info 点击点击提交按钮
+2018-02-02 19:32:51,627 INFO main [Tools.Tool.mydate]info 未读取到By.id: create_feedback_div文本信息
+2018-02-02 19:32:51,628 INFO main [Tools.Tool.mydate]info 读取By.id: create_feedback_div文本信息:SKU:SUK15180 创建成功
+2018-02-02 19:32:51,822 INFO main [Tools.Tool.mydate]info 截图：OMScreatPro.png
+2018-02-02 19:32:52,294 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:32:52,571 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:32:52,632 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:32:52,694 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:32:53,975 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:32:53,992 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:32:53,994 INFO main [Tools.Tool.mydate]info *************OMS产品审核开始测试*************
+2018-02-02 19:32:54,073 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:32:54,147 INFO main [Tools.Tool.mydate]info 点击产品管理
+2018-02-02 19:32:56,530 INFO main [Tools.Tool.mydate]info 进入iframe-container-46成功
+2018-02-02 19:32:56,602 INFO main [Tools.Tool.mydate]info 在By.id: product_title_like输入：pro15180
+2018-02-02 19:32:56,874 INFO main [Tools.Tool.mydate]info 点击By.className: submitToSearch
+2018-02-02 19:32:57,903 INFO main [Tools.Tool.mydate]info 读取By.xpath: .//tbody[@id='table-module-list-data']/tr/td[2]/div[1]/a文本信息:SUK15180
+2018-02-02 19:32:58,160 INFO main [Tools.Tool.mydate]info 点击草稿进入带审核界面
+2018-02-02 19:32:58,235 INFO main [Tools.Tool.mydate]info 点击选择待审核的产品
+2018-02-02 19:32:58,310 INFO main [Tools.Tool.mydate]info 点击审核按钮
+2018-02-02 19:32:59,394 INFO main [Tools.Tool.mydate]info 点击By.id: popup_ok
+2018-02-02 19:33:01,090 INFO main [Tools.Tool.mydate]info 读取By.id: dialog-auto-alert-tip文本信息:SKU:SUK15180 审核成功
+2018-02-02 19:33:01,267 INFO main [Tools.Tool.mydate]info 截图：OMSproAduit.png
+2018-02-02 19:33:01,539 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:33:02,029 INFO main [Tools.Tool.mydate]info -------------结束测试，并关闭退出浏览器-------------
+2018-02-02 19:33:02,039 INFO main [Tools.Tool.mydate]info 1802021931.zip文件打包成功!
+2018-02-02 19:33:02,966 ERROR main [Tools.Tool.mydate]error 发送邮件失败！
+2018-02-02 19:33:02,969 INFO main [Tools.Tool.mydate]info 删除文件成功
+2018-02-02 19:34:53,480 INFO main [Tools.Tool.mydate]info 0202193453
+2018-02-02 19:34:53,484 INFO main [Tools.Tool.mydate]info 1802021934
+2018-02-02 19:34:53,698 INFO main [Tools.Tool.mydate]info ------------------开始执行测试---------------
+2018-02-02 19:34:58,548 INFO main [Tools.Tool.mydate]info 火狐已经打开！
+2018-02-02 19:34:58,875 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:34:59,013 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:34:59,097 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:35:02,711 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:35:02,733 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:35:02,739 INFO main [Tools.Tool.mydate]info *************创建产品开始测试*************
+2018-02-02 19:35:02,817 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:35:02,925 INFO main [Tools.Tool.mydate]info 点击点击创建产品
+2018-02-02 19:35:04,077 INFO main [Tools.Tool.mydate]info 进入iframe-container-55成功
+2018-02-02 19:35:04,164 INFO main [Tools.Tool.mydate]info 点击By.id: LangToggle
+2018-02-02 19:35:05,166 INFO main [Tools.Tool.mydate]info 50715
+2018-02-02 19:35:05,308 INFO main [Tools.Tool.mydate]info 输入：商业及工业
+2018-02-02 19:35:07,428 INFO main [Tools.Tool.mydate]info 输入：办公用品
+2018-02-02 19:35:09,525 INFO main [Tools.Tool.mydate]info 输入：钢笔
+2018-02-02 19:35:11,597 INFO main [Tools.Tool.mydate]info 在By.id: product_title输入：pro50715
+2018-02-02 19:35:11,769 INFO main [Tools.Tool.mydate]info 在By.id: product_sku输入：SUK50715
+2018-02-02 19:35:11,862 INFO main [Tools.Tool.mydate]info 在By.id: reference_no输入：BH50715
+2018-02-02 19:35:11,924 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_value输入：100
+2018-02-02 19:35:12,003 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name_zh输入：测试产品50715
+2018-02-02 19:35:12,073 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name输入：product50715
+2018-02-02 19:35:12,152 INFO main [Tools.Tool.mydate]info 在By.id: hs_code输入：HGBM50715
+2018-02-02 19:35:12,426 INFO main [Tools.Tool.mydate]info By.name: product_package_type下拉框选择了第0个值
+2018-02-02 19:35:12,486 INFO main [Tools.Tool.mydate]info 在By.id: product_length输入：15.00
+2018-02-02 19:35:12,578 INFO main [Tools.Tool.mydate]info 在By.id: product_width输入：20.00
+2018-02-02 19:35:12,655 INFO main [Tools.Tool.mydate]info 在By.id: product_height输入：25.00
+2018-02-02 19:35:12,808 INFO main [Tools.Tool.mydate]info By.id: contain_battery下拉框选择了第2个值
+2018-02-02 19:35:12,926 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:35:13,080 INFO main [Tools.Tool.mydate]info 点击By.id: SWFUpload_0
+2018-02-02 19:35:15,082 INFO main [Tools.Tool.mydate]info 已选择上传文件,路径为：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:35:16,203 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：3.000
+2018-02-02 19:35:16,271 INFO main [Tools.Tool.mydate]info 点击点击提交按钮
+2018-02-02 19:35:24,442 INFO main [Tools.Tool.mydate]info 读取By.id: create_feedback_div文本信息:SKU:SUK50715 创建成功
+2018-02-02 19:35:24,705 INFO main [Tools.Tool.mydate]info 截图：OMScreatPro.png
+2018-02-02 19:35:25,219 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:35:25,471 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:35:25,534 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:35:25,593 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:35:26,908 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:35:26,927 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:35:26,929 INFO main [Tools.Tool.mydate]info *************OMS产品审核开始测试*************
+2018-02-02 19:35:27,016 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:35:27,107 INFO main [Tools.Tool.mydate]info 点击产品管理
+2018-02-02 19:35:29,499 INFO main [Tools.Tool.mydate]info 进入iframe-container-46成功
+2018-02-02 19:35:29,570 INFO main [Tools.Tool.mydate]info 在By.id: product_title_like输入：pro50715
+2018-02-02 19:35:29,840 INFO main [Tools.Tool.mydate]info 点击By.className: submitToSearch
+2018-02-02 19:35:30,866 INFO main [Tools.Tool.mydate]info 读取By.xpath: .//tbody[@id='table-module-list-data']/tr/td[2]/div[1]/a文本信息:SUK50715
+2018-02-02 19:35:31,084 INFO main [Tools.Tool.mydate]info 点击草稿进入带审核界面
+2018-02-02 19:35:31,160 INFO main [Tools.Tool.mydate]info 点击选择待审核的产品
+2018-02-02 19:35:31,238 INFO main [Tools.Tool.mydate]info 点击审核按钮
+2018-02-02 19:35:32,323 INFO main [Tools.Tool.mydate]info 点击By.id: popup_ok
+2018-02-02 19:35:34,408 INFO main [Tools.Tool.mydate]info 读取By.id: dialog-auto-alert-tip文本信息:SKU:SUK50715 审核成功
+2018-02-02 19:35:34,578 INFO main [Tools.Tool.mydate]info 截图：OMSproAduit.png
+2018-02-02 19:35:34,852 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:35:35,260 INFO main [Tools.Tool.mydate]info -------------结束测试，并关闭退出浏览器-------------
+2018-02-02 19:35:35,272 INFO main [Tools.Tool.mydate]info 1802021934.zip文件打包成功!
+2018-02-02 19:35:36,535 INFO main [Tools.Tool.mydate]info 发送邮件成功！
+2018-02-02 19:35:36,536 INFO main [Tools.Tool.mydate]info 删除文件成功
+2018-02-02 19:41:25,689 INFO main [Tools.Tool.mydate]info 0202194125
+2018-02-02 19:41:25,692 INFO main [Tools.Tool.mydate]info 1802021941
+2018-02-02 19:41:25,852 INFO main [Tools.Tool.mydate]info ------------------开始执行测试---------------
+2018-02-02 19:41:29,875 INFO main [Tools.Tool.mydate]info 火狐已经打开！
+2018-02-02 19:41:30,261 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:41:30,423 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:41:30,499 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:41:34,106 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:41:34,125 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:41:34,128 INFO main [Tools.Tool.mydate]info *************创建产品开始测试*************
+2018-02-02 19:41:34,212 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:41:34,321 INFO main [Tools.Tool.mydate]info 点击点击创建产品
+2018-02-02 19:41:35,489 INFO main [Tools.Tool.mydate]info 进入iframe-container-55成功
+2018-02-02 19:41:35,582 INFO main [Tools.Tool.mydate]info 点击By.id: LangToggle
+2018-02-02 19:41:36,584 INFO main [Tools.Tool.mydate]info 81628
+2018-02-02 19:41:36,744 INFO main [Tools.Tool.mydate]info 输入：商业及工业
+2018-02-02 19:41:38,872 INFO main [Tools.Tool.mydate]info 输入：办公用品
+2018-02-02 19:41:40,984 INFO main [Tools.Tool.mydate]info 输入：钢笔
+2018-02-02 19:41:43,054 INFO main [Tools.Tool.mydate]info 在By.id: product_title输入：pro81628
+2018-02-02 19:41:43,126 INFO main [Tools.Tool.mydate]info 在By.id: product_sku输入：SUK81628
+2018-02-02 19:41:43,190 INFO main [Tools.Tool.mydate]info 在By.id: reference_no输入：BH81628
+2018-02-02 19:41:43,245 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_value输入：100
+2018-02-02 19:41:43,310 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name_zh输入：测试产品81628
+2018-02-02 19:41:43,384 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name输入：product81628
+2018-02-02 19:41:43,445 INFO main [Tools.Tool.mydate]info 在By.id: hs_code输入：HGBM81628
+2018-02-02 19:41:43,907 INFO main [Tools.Tool.mydate]info By.name: product_package_type下拉框选择了第0个值
+2018-02-02 19:41:43,971 INFO main [Tools.Tool.mydate]info 在By.id: product_length输入：15.00
+2018-02-02 19:41:44,055 INFO main [Tools.Tool.mydate]info 在By.id: product_width输入：20.00
+2018-02-02 19:41:44,125 INFO main [Tools.Tool.mydate]info 在By.id: product_height输入：25.00
+2018-02-02 19:41:44,260 INFO main [Tools.Tool.mydate]info By.id: contain_battery下拉框选择了第2个值
+2018-02-02 19:41:44,370 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:41:44,511 INFO main [Tools.Tool.mydate]info 点击By.id: SWFUpload_0
+2018-02-02 19:41:46,512 INFO main [Tools.Tool.mydate]info 已选择上传文件,路径为：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:41:47,608 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：3.000
+2018-02-02 19:41:47,763 INFO main [Tools.Tool.mydate]info 点击点击提交按钮
+2018-02-02 19:41:49,788 INFO main [Tools.Tool.mydate]info 读取By.id: create_feedback_div文本信息:SKU:SUK81628 创建成功
+2018-02-02 19:41:49,995 INFO main [Tools.Tool.mydate]info 截图：OMScreatPro.png
+2018-02-02 19:41:50,517 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:41:50,856 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:41:50,936 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:41:51,029 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:41:52,425 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:41:52,438 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:41:52,440 INFO main [Tools.Tool.mydate]info *************OMS产品审核开始测试*************
+2018-02-02 19:41:52,522 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:41:52,603 INFO main [Tools.Tool.mydate]info 点击产品管理
+2018-02-02 19:41:55,033 INFO main [Tools.Tool.mydate]info 进入iframe-container-46成功
+2018-02-02 19:41:55,112 INFO main [Tools.Tool.mydate]info 在By.id: product_title_like输入：pro81628
+2018-02-02 19:41:55,440 INFO main [Tools.Tool.mydate]info 点击By.className: submitToSearch
+2018-02-02 19:41:56,468 INFO main [Tools.Tool.mydate]info 读取By.xpath: .//tbody[@id='table-module-list-data']/tr/td[2]/div[1]/a文本信息:SUK81628
+2018-02-02 19:41:56,767 INFO main [Tools.Tool.mydate]info 点击草稿进入带审核界面
+2018-02-02 19:41:56,847 INFO main [Tools.Tool.mydate]info 点击选择待审核的产品
+2018-02-02 19:41:56,922 INFO main [Tools.Tool.mydate]info 点击审核按钮
+2018-02-02 19:41:58,011 INFO main [Tools.Tool.mydate]info 点击By.id: popup_ok
+2018-02-02 19:41:59,120 INFO main [Tools.Tool.mydate]info 读取By.id: dialog-auto-alert-tip文本信息:SKU:SUK81628 审核成功
+2018-02-02 19:41:59,287 INFO main [Tools.Tool.mydate]info 截图：OMSproAduit.png
+2018-02-02 19:41:59,604 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:42:00,042 INFO main [Tools.Tool.mydate]info -------------结束测试，并关闭退出浏览器-------------
+2018-02-02 19:42:00,051 INFO main [Tools.Tool.mydate]info 1802021941.zip文件打包成功!
+2018-02-02 19:42:01,597 INFO main [Tools.Tool.mydate]info 发送邮件成功！
+2018-02-02 19:42:01,598 INFO main [Tools.Tool.mydate]info 删除文件成功
+2018-02-02 19:44:39,286 INFO main [Tools.Tool.mydate]info 0202194439
+2018-02-02 19:44:39,290 INFO main [Tools.Tool.mydate]info 1802021944
+2018-02-02 19:44:39,478 INFO main [Tools.Tool.mydate]info ------------------开始执行测试---------------
+2018-02-02 19:44:44,030 INFO main [Tools.Tool.mydate]info 火狐已经打开！
+2018-02-02 19:44:44,518 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:44:44,682 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:44:44,740 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:44:49,105 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:44:49,120 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:44:49,124 INFO main [Tools.Tool.mydate]info *************创建产品开始测试*************
+2018-02-02 19:44:49,203 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:44:49,317 INFO main [Tools.Tool.mydate]info 点击点击创建产品
+2018-02-02 19:44:50,558 INFO main [Tools.Tool.mydate]info 进入iframe-container-55成功
+2018-02-02 19:44:50,637 INFO main [Tools.Tool.mydate]info 点击By.id: LangToggle
+2018-02-02 19:44:51,639 INFO main [Tools.Tool.mydate]info 83967
+2018-02-02 19:44:51,802 INFO main [Tools.Tool.mydate]info 输入：商业及工业
+2018-02-02 19:44:53,909 INFO main [Tools.Tool.mydate]info 输入：办公用品
+2018-02-02 19:44:56,006 INFO main [Tools.Tool.mydate]info 输入：钢笔
+2018-02-02 19:44:58,076 INFO main [Tools.Tool.mydate]info 在By.id: product_title输入：pro83967
+2018-02-02 19:44:58,251 INFO main [Tools.Tool.mydate]info 在By.id: product_sku输入：SUK83967
+2018-02-02 19:44:58,308 INFO main [Tools.Tool.mydate]info 在By.id: reference_no输入：BH83967
+2018-02-02 19:44:58,370 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_value输入：100
+2018-02-02 19:44:58,433 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name_zh输入：测试产品83967
+2018-02-02 19:44:58,494 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name输入：product83967
+2018-02-02 19:44:58,586 INFO main [Tools.Tool.mydate]info 在By.id: hs_code输入：HGBM83967
+2018-02-02 19:44:59,451 INFO main [Tools.Tool.mydate]info By.name: product_package_type下拉框选择了第0个值
+2018-02-02 19:44:59,504 INFO main [Tools.Tool.mydate]info 在By.id: product_length输入：15.00
+2018-02-02 19:44:59,678 INFO main [Tools.Tool.mydate]info 在By.id: product_width输入：20.00
+2018-02-02 19:44:59,739 INFO main [Tools.Tool.mydate]info 在By.id: product_height输入：25.00
+2018-02-02 19:44:59,905 INFO main [Tools.Tool.mydate]info By.id: contain_battery下拉框选择了第2个值
+2018-02-02 19:45:00,015 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:45:00,182 INFO main [Tools.Tool.mydate]info 点击By.id: SWFUpload_0
+2018-02-02 19:45:02,182 INFO main [Tools.Tool.mydate]info 已选择上传文件,路径为：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:45:03,272 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：3.000
+2018-02-02 19:45:03,437 INFO main [Tools.Tool.mydate]info 点击点击提交按钮
+2018-02-02 19:45:05,458 INFO main [Tools.Tool.mydate]info 读取By.id: create_feedback_div文本信息:SKU:SUK83967 创建成功
+2018-02-02 19:45:05,645 INFO main [Tools.Tool.mydate]info 截图：OMScreatPro.png
+2018-02-02 19:45:06,272 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:45:06,534 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:45:06,590 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:45:06,653 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:45:07,993 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:45:08,013 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:45:08,015 INFO main [Tools.Tool.mydate]info *************OMS产品审核开始测试*************
+2018-02-02 19:45:08,111 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:45:08,190 INFO main [Tools.Tool.mydate]info 点击产品管理
+2018-02-02 19:45:10,608 INFO main [Tools.Tool.mydate]info 进入iframe-container-46成功
+2018-02-02 19:45:10,697 INFO main [Tools.Tool.mydate]info 在By.id: product_title_like输入：pro83967
+2018-02-02 19:45:10,932 INFO main [Tools.Tool.mydate]info 点击By.className: submitToSearch
+2018-02-02 19:45:11,957 INFO main [Tools.Tool.mydate]info 读取By.xpath: .//tbody[@id='table-module-list-data']/tr/td[2]/div[1]/a文本信息:SUK83967
+2018-02-02 19:45:12,199 INFO main [Tools.Tool.mydate]info 点击草稿进入带审核界面
+2018-02-02 19:45:12,271 INFO main [Tools.Tool.mydate]info 点击选择待审核的产品
+2018-02-02 19:45:12,369 INFO main [Tools.Tool.mydate]info 点击审核按钮
+2018-02-02 19:45:13,458 INFO main [Tools.Tool.mydate]info 点击By.id: popup_ok
+2018-02-02 19:45:14,589 INFO main [Tools.Tool.mydate]info 读取By.id: dialog-auto-alert-tip文本信息:SKU:SUK83967 审核成功
+2018-02-02 19:45:14,762 INFO main [Tools.Tool.mydate]info 截图：OMSproAduit.png
+2018-02-02 19:45:14,870 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:45:15,561 INFO main [Tools.Tool.mydate]info -------------结束测试，并关闭退出浏览器-------------
+2018-02-02 19:45:15,615 INFO main [Tools.Tool.mydate]info 1802021944.zip文件打包成功!
+2018-02-02 19:45:16,809 INFO main [Tools.Tool.mydate]info 发送邮件成功！
+2018-02-02 19:45:16,811 INFO main [Tools.Tool.mydate]info 删除文件成功
+2018-02-02 19:49:50,399 INFO main [Tools.Tool.mydate]info 0202194950
+2018-02-02 19:49:50,401 INFO main [Tools.Tool.mydate]info 1802021949
+2018-02-02 19:49:50,548 INFO main [Tools.Tool.mydate]info ------------------开始执行测试---------------
+2018-02-02 19:49:54,075 INFO main [Tools.Tool.mydate]info 火狐已经打开！
+2018-02-02 19:49:54,450 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:49:54,587 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:49:54,675 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:49:58,199 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:49:58,210 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:49:58,214 INFO main [Tools.Tool.mydate]info *************创建产品开始测试*************
+2018-02-02 19:49:58,309 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:49:58,419 INFO main [Tools.Tool.mydate]info 点击点击创建产品
+2018-02-02 19:49:59,563 INFO main [Tools.Tool.mydate]info 进入iframe-container-55成功
+2018-02-02 19:49:59,654 INFO main [Tools.Tool.mydate]info 点击By.id: LangToggle
+2018-02-02 19:50:00,656 INFO main [Tools.Tool.mydate]info 48526
+2018-02-02 19:50:00,802 INFO main [Tools.Tool.mydate]info 输入：商业及工业
+2018-02-02 19:50:02,927 INFO main [Tools.Tool.mydate]info 输入：办公用品
+2018-02-02 19:50:05,032 INFO main [Tools.Tool.mydate]info 输入：钢笔
+2018-02-02 19:50:07,097 INFO main [Tools.Tool.mydate]info 在By.id: product_title输入：pro48526
+2018-02-02 19:50:07,170 INFO main [Tools.Tool.mydate]info 在By.id: product_sku输入：SUK48526
+2018-02-02 19:50:07,248 INFO main [Tools.Tool.mydate]info 在By.id: reference_no输入：BH48526
+2018-02-02 19:50:07,300 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_value输入：100
+2018-02-02 19:50:07,372 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name_zh输入：测试产品48526
+2018-02-02 19:50:07,440 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name输入：product48526
+2018-02-02 19:50:07,513 INFO main [Tools.Tool.mydate]info 在By.id: hs_code输入：HGBM48526
+2018-02-02 19:50:08,094 INFO main [Tools.Tool.mydate]info By.name: product_package_type下拉框选择了第0个值
+2018-02-02 19:50:08,150 INFO main [Tools.Tool.mydate]info 在By.id: product_length输入：15.00
+2018-02-02 19:50:08,236 INFO main [Tools.Tool.mydate]info 在By.id: product_width输入：20.00
+2018-02-02 19:50:08,316 INFO main [Tools.Tool.mydate]info 在By.id: product_height输入：25.00
+2018-02-02 19:50:08,455 INFO main [Tools.Tool.mydate]info By.id: contain_battery下拉框选择了第2个值
+2018-02-02 19:50:08,569 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:50:08,747 INFO main [Tools.Tool.mydate]info 点击By.id: SWFUpload_0
+2018-02-02 19:50:10,747 INFO main [Tools.Tool.mydate]info 已选择上传文件,路径为：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:50:11,851 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：3.000
+2018-02-02 19:50:12,009 INFO main [Tools.Tool.mydate]info 点击点击提交按钮
+2018-02-02 19:50:14,039 INFO main [Tools.Tool.mydate]info 读取By.id: create_feedback_div文本信息:SKU:SUK48526 创建成功
+2018-02-02 19:50:14,237 INFO main [Tools.Tool.mydate]info 截图：OMScreatPro.png
+2018-02-02 19:50:14,793 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:50:15,156 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:50:15,236 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:50:15,300 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:50:16,573 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:50:16,613 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:50:16,615 INFO main [Tools.Tool.mydate]info *************OMS产品审核开始测试*************
+2018-02-02 19:50:16,732 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:50:16,858 INFO main [Tools.Tool.mydate]info 点击产品管理
+2018-02-02 19:50:19,290 INFO main [Tools.Tool.mydate]info 进入iframe-container-46成功
+2018-02-02 19:50:19,367 INFO main [Tools.Tool.mydate]info 在By.id: product_title_like输入：pro48526
+2018-02-02 19:50:19,655 INFO main [Tools.Tool.mydate]info 点击By.className: submitToSearch
+2018-02-02 19:50:20,685 INFO main [Tools.Tool.mydate]info 读取By.xpath: .//tbody[@id='table-module-list-data']/tr/td[2]/div[1]/a文本信息:SUK48526
+2018-02-02 19:50:20,952 INFO main [Tools.Tool.mydate]info 点击草稿进入带审核界面
+2018-02-02 19:50:21,046 INFO main [Tools.Tool.mydate]info 点击选择待审核的产品
+2018-02-02 19:50:21,151 INFO main [Tools.Tool.mydate]info 点击审核按钮
+2018-02-02 19:50:24,306 INFO main [Tools.Tool.mydate]info 点击By.id: popup_ok
+2018-02-02 19:50:25,540 INFO main [Tools.Tool.mydate]info 读取By.id: dialog-auto-alert-tip文本信息:SKU:SUK48526 审核成功
+2018-02-02 19:50:25,679 INFO main [Tools.Tool.mydate]info 截图：OMSproAduit.png
+2018-02-02 19:50:26,008 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:50:26,430 INFO main [Tools.Tool.mydate]info -------------结束测试，并关闭退出浏览器-------------
+2018-02-02 19:50:26,440 INFO main [Tools.Tool.mydate]info 1802021949.zip文件打包成功!
+2018-02-02 19:50:32,112 INFO main [Tools.Tool.mydate]info 发送邮件成功！
+2018-02-02 19:50:32,113 INFO main [Tools.Tool.mydate]info 删除文件成功
+2018-02-02 19:52:37,245 INFO main [Tools.Tool.mydate]info 0202195237
+2018-02-02 19:52:37,249 INFO main [Tools.Tool.mydate]info 1802021952
+2018-02-02 19:52:37,484 INFO main [Tools.Tool.mydate]info ------------------开始执行测试---------------
+2018-02-02 19:52:41,821 INFO main [Tools.Tool.mydate]info 火狐已经打开！
+2018-02-02 19:52:42,160 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:52:42,366 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:52:42,454 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:52:45,622 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:52:45,637 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:52:45,642 INFO main [Tools.Tool.mydate]info *************创建产品开始测试*************
+2018-02-02 19:52:45,718 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:52:45,825 INFO main [Tools.Tool.mydate]info 点击点击创建产品
+2018-02-02 19:52:46,929 INFO main [Tools.Tool.mydate]info 进入iframe-container-55成功
+2018-02-02 19:52:47,014 INFO main [Tools.Tool.mydate]info 点击By.id: LangToggle
+2018-02-02 19:52:48,016 INFO main [Tools.Tool.mydate]info 38990
+2018-02-02 19:52:48,169 INFO main [Tools.Tool.mydate]info 输入：商业及工业
+2018-02-02 19:52:50,310 INFO main [Tools.Tool.mydate]info 输入：办公用品
+2018-02-02 19:52:52,418 INFO main [Tools.Tool.mydate]info 输入：钢笔
+2018-02-02 19:52:54,503 INFO main [Tools.Tool.mydate]info 在By.id: product_title输入：pro38990
+2018-02-02 19:52:54,579 INFO main [Tools.Tool.mydate]info 在By.id: product_sku输入：SUK38990
+2018-02-02 19:52:54,639 INFO main [Tools.Tool.mydate]info 在By.id: reference_no输入：BH38990
+2018-02-02 19:52:54,697 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_value输入：100
+2018-02-02 19:52:54,758 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name_zh输入：测试产品38990
+2018-02-02 19:52:54,829 INFO main [Tools.Tool.mydate]info 在By.id: product_declared_name输入：product38990
+2018-02-02 19:52:54,896 INFO main [Tools.Tool.mydate]info 在By.id: hs_code输入：HGBM38990
+2018-02-02 19:52:55,459 INFO main [Tools.Tool.mydate]info By.name: product_package_type下拉框选择了第0个值
+2018-02-02 19:52:55,514 INFO main [Tools.Tool.mydate]info 在By.id: product_length输入：15.00
+2018-02-02 19:52:55,602 INFO main [Tools.Tool.mydate]info 在By.id: product_width输入：20.00
+2018-02-02 19:52:55,661 INFO main [Tools.Tool.mydate]info 在By.id: product_height输入：25.00
+2018-02-02 19:52:55,836 INFO main [Tools.Tool.mydate]info By.id: contain_battery下拉框选择了第2个值
+2018-02-02 19:52:55,953 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:52:56,105 INFO main [Tools.Tool.mydate]info 点击By.id: SWFUpload_0
+2018-02-02 19:52:58,106 INFO main [Tools.Tool.mydate]info 已选择上传文件,路径为：E:\IdeaProjects\GUCANG_223\fileupload\T01.png
+2018-02-02 19:52:59,201 INFO main [Tools.Tool.mydate]info 在By.id: product_weight输入：3.000
+2018-02-02 19:52:59,367 INFO main [Tools.Tool.mydate]info 点击点击提交按钮
+2018-02-02 19:53:01,398 INFO main [Tools.Tool.mydate]info 读取By.id: create_feedback_div文本信息:SKU:SUK38990 创建成功
+2018-02-02 19:53:01,592 INFO main [Tools.Tool.mydate]info 截图：OMScreatPro.png
+2018-02-02 19:53:02,146 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:53:02,381 INFO main [Tools.Tool.mydate]info 打开网页：http://192.168.10.237:61602/
+2018-02-02 19:53:02,452 INFO main [Tools.Tool.mydate]info 在By.id: userName输入：zhuoli
+2018-02-02 19:53:02,522 INFO main [Tools.Tool.mydate]info 在By.id: userPass输入：Td147852
+2018-02-02 19:53:03,874 INFO main [Tools.Tool.mydate]info 点击By.xpath: .//*[@id='loginForm']/div/a[1]
+2018-02-02 19:53:03,898 INFO main [Tools.Tool.mydate]info ***********登录OMS成功***********
+2018-02-02 19:53:03,900 INFO main [Tools.Tool.mydate]info *************OMS产品审核开始测试*************
+2018-02-02 19:53:03,986 INFO main [Tools.Tool.mydate]info 鼠标移动到By.linkText: 产品管理上面！
+2018-02-02 19:53:04,071 INFO main [Tools.Tool.mydate]info 点击产品管理
+2018-02-02 19:53:06,467 INFO main [Tools.Tool.mydate]info 进入iframe-container-46成功
+2018-02-02 19:53:06,591 INFO main [Tools.Tool.mydate]info 在By.id: product_title_like输入：pro38990
+2018-02-02 19:53:07,106 INFO main [Tools.Tool.mydate]info 点击By.className: submitToSearch
+2018-02-02 19:53:08,134 INFO main [Tools.Tool.mydate]info 读取By.xpath: .//tbody[@id='table-module-list-data']/tr/td[2]/div[1]/a文本信息:SUK38990
+2018-02-02 19:53:08,368 INFO main [Tools.Tool.mydate]info 点击草稿进入带审核界面
+2018-02-02 19:53:08,457 INFO main [Tools.Tool.mydate]info 点击选择待审核的产品
+2018-02-02 19:53:08,539 INFO main [Tools.Tool.mydate]info 点击审核按钮
+2018-02-02 19:53:09,636 INFO main [Tools.Tool.mydate]info 点击By.id: popup_ok
+2018-02-02 19:53:10,703 INFO main [Tools.Tool.mydate]info 读取By.id: dialog-auto-alert-tip文本信息:SKU:SUK38990 审核成功
+2018-02-02 19:53:10,893 INFO main [Tools.Tool.mydate]info 截图：OMSproAduit.png
+2018-02-02 19:53:11,405 INFO main [Tools.Tool.mydate]info 点击By.className: logOut
+2018-02-02 19:53:11,826 INFO main [Tools.Tool.mydate]info -------------结束测试，并关闭退出浏览器-------------
+2018-02-02 19:53:11,884 INFO main [Tools.Tool.mydate]info 1802021952.zip文件打包成功!
+2018-02-02 19:53:13,039 INFO main [Tools.Tool.mydate]info 发送邮件成功！
+2018-02-02 19:53:13,040 INFO main [Tools.Tool.mydate]info 删除文件成功

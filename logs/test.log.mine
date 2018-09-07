@@ -1,0 +1,1515 @@
+2018-03-10 10:59:59,589 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 11:00:07,833 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 11:00:08,712 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 11:00:08,846 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 11:00:08,930 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 11:00:10,162 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 11:00:10,184 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 11:00:10,184 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 11:00:10,310 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 11:00:11,346 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 11:00:11,446 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 11:00:12,203 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 11:00:14,204 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 11:00:15,341 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 11:00:15,666 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 11:00:19,864 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 11:00:19,865 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 11:00:21,974 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 11:00:22,121 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 11:00:24,122 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 11:00:25,239 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 11:00:25,517 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 11:00:28,085 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 11:00:28,086 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 11:04:10,958 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 11:04:15,789 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 11:04:16,414 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 11:04:16,567 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 11:04:16,669 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 11:04:17,805 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 11:04:17,832 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 11:04:17,832 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 11:04:17,932 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 11:04:18,972 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 11:04:18,973 INFO main [Tools.Tool.MyUpload]info 生成随机数pbV2u099ho8XCbQ9Juwd
+2018-03-10 11:04:19,082 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 11:04:19,322 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 11:04:21,322 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 11:04:22,536 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 11:04:22,933 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 11:04:27,059 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 11:04:27,060 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 11:04:29,165 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 11:04:29,315 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 11:04:31,316 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 11:04:32,415 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 11:04:32,539 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 11:04:34,606 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 11:04:34,607 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 11:04:34,688 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：pbV2u099ho8XCbQ9Juwd
+2018-03-10 11:04:34,845 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 12:38:44,280 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:38:49,254 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 12:38:49,908 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 12:38:50,046 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 12:38:50,131 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 12:38:52,078 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 12:38:52,108 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 12:38:52,108 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 12:38:52,203 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 12:38:53,241 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 12:38:53,242 INFO main [Tools.Tool.MyUpload]info 生成随机数YZc59Q4VoxyXd9sWH4gz
+2018-03-10 12:38:53,349 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:38:53,615 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 12:38:55,616 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:38:56,790 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 12:38:57,049 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:39:07,312 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 12:39:07,312 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 12:39:09,426 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:39:09,599 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 12:39:11,599 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:39:12,715 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 12:39:12,856 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:39:14,928 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 12:39:14,929 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 12:39:15,031 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：YZc59Q4VoxyXd9sWH4gz
+2018-03-10 12:39:15,243 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 12:39:15,377 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 12:39:15,378 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 12:39:15,378 INFO main [Tools.Tool.MyUpload]info 3
+2018-03-10 12:39:25,758 ERROR main [Tools.Tool.MyUpload]error 元素:By.xpath: //*[@id='getInvoice']/div[1]/div[8]/input查找失败
+2018-03-10 12:44:30,680 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:45:08,230 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:45:47,653 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:45:51,787 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 12:45:52,638 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 12:45:52,771 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 12:45:52,854 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 12:45:54,248 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 12:45:54,270 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 12:45:54,271 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 12:45:54,365 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 12:45:55,402 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 12:45:55,403 INFO main [Tools.Tool.MyUpload]info 生成随机数2t21yw785VHBaD47D706
+2018-03-10 12:45:55,507 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:45:55,736 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 12:45:57,737 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:45:58,837 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 12:45:59,059 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:46:07,752 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 12:46:07,752 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 12:46:09,857 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:46:10,014 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 12:46:12,015 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:46:13,121 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 12:46:13,259 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:46:15,314 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 12:46:15,314 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 12:46:15,400 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：2t21yw785VHBaD47D706
+2018-03-10 12:46:15,544 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 12:47:13,215 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:47:17,403 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 12:47:18,158 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 12:47:18,326 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 12:47:18,408 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 12:47:19,915 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 12:47:19,937 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 12:47:19,937 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 12:47:20,036 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 12:47:21,081 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 12:47:21,082 INFO main [Tools.Tool.MyUpload]info 生成随机数5622rOMpIOz5fl0A9Fu1
+2018-03-10 12:47:21,191 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:47:21,433 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 12:47:23,434 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:47:24,536 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 12:47:24,780 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:47:35,027 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 12:47:35,027 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 12:47:37,130 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:47:37,281 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 12:47:39,282 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:47:40,400 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 12:47:40,552 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:47:43,639 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 12:47:43,639 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 12:47:43,739 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：5622rOMpIOz5fl0A9Fu1
+2018-03-10 12:47:43,918 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 12:47:44,092 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 12:47:44,093 INFO main [Tools.Tool.MyUpload]info 6
+2018-03-10 12:47:44,094 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 12:47:54,454 ERROR main [Tools.Tool.MyUpload]error 元素:By.xpath: //*[@id='getInvoice']/div[2]/div[8]/input查找失败
+2018-03-10 12:47:54,970 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 12:49:23,046 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:49:28,432 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 12:49:29,188 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 12:49:29,318 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 12:49:29,402 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 12:49:30,504 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 12:49:30,530 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 12:49:30,531 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 12:49:30,633 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 12:49:31,668 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 12:49:31,669 INFO main [Tools.Tool.MyUpload]info 生成随机数6DZp925965100507o17m
+2018-03-10 12:49:31,768 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:49:31,993 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 12:49:33,993 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:49:35,095 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 12:49:35,437 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:49:43,634 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 12:49:43,635 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 12:49:45,757 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:49:45,987 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 12:49:47,987 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:49:49,094 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 12:49:49,224 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:49:51,281 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 12:49:51,281 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 12:49:51,348 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：6DZp925965100507o17m
+2018-03-10 12:49:51,469 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 12:49:51,583 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 12:49:51,670 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 12:49:51,740 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 12:49:51,849 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 12:49:52,044 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 12:49:52,137 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 12:49:52,214 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 12:49:52,319 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 12:49:52,450 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 12:49:52,516 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 12:49:52,582 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 12:49:52,647 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 12:49:52,715 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 12:49:52,716 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 12:49:52,716 INFO main [Tools.Tool.MyUpload]info 6
+2018-03-10 12:49:52,827 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 12:49:53,945 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 12:49:54,011 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 12:49:54,066 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：0
+2018-03-10 12:49:54,129 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：0
+2018-03-10 12:49:54,187 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：0
+2018-03-10 12:49:54,250 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 12:49:54,319 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 12:49:54,375 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 12:49:54,446 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 12:49:54,513 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 12:49:54,587 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 12:49:54,666 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 12:49:54,737 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：1
+2018-03-10 12:49:54,801 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：1
+2018-03-10 12:49:54,867 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：1
+2018-03-10 12:49:54,938 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 12:49:55,007 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 12:49:55,071 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 12:49:55,149 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 12:49:55,418 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 12:56:14,524 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:56:18,949 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 12:56:19,566 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 12:56:19,702 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 12:56:19,786 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 12:56:21,654 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 12:56:21,716 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 12:56:21,716 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 12:56:21,818 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 12:56:22,854 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 12:56:22,855 INFO main [Tools.Tool.MyUpload]info 生成随机数6lm1AzWjGw6bIDdZ9j10
+2018-03-10 12:56:22,961 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:56:23,189 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 12:56:25,190 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:56:26,313 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 12:56:26,730 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:56:31,873 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 12:56:31,873 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 12:56:33,981 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:56:34,127 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 12:56:36,127 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 12:56:37,245 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 12:56:37,387 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 12:56:39,441 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 12:56:39,441 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 12:56:39,516 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：6lm1AzWjGw6bIDdZ9j10
+2018-03-10 12:56:39,640 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 12:56:39,763 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 12:56:39,866 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 12:56:39,952 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 12:56:40,013 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 12:56:40,078 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 12:56:40,146 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 12:56:40,216 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 12:56:40,299 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 12:56:40,379 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 12:56:40,467 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 12:56:40,582 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 12:56:40,662 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 12:56:40,728 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 12:56:40,728 INFO main [Tools.Tool.MyUpload]info 3
+2018-03-10 12:56:40,728 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 12:56:40,842 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 12:56:41,954 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 12:56:42,015 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 12:56:42,076 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 12:56:42,132 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 12:56:42,195 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 12:56:42,265 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 12:56:42,335 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 12:56:42,414 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 12:56:42,479 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 12:56:42,549 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 12:56:42,630 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 12:56:42,696 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 12:56:42,777 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 12:56:42,837 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 12:56:42,931 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 12:56:43,056 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 12:56:43,215 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 12:56:43,293 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 12:56:43,366 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 12:56:43,776 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 12:57:11,251 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 12:57:36,193 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 12:57:36,717 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 12:57:36,891 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 12:57:36,980 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 12:57:38,473 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 12:57:38,539 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 12:57:38,540 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 12:57:38,646 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 12:57:39,685 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 12:57:39,686 INFO main [Tools.Tool.MyUpload]info 生成随机数3652i84k8n18eb43oYZ0
+2018-03-10 12:57:39,797 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:57:40,090 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 12:57:42,091 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 12:57:43,206 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:17:10,019 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:17:14,233 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:17:14,838 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:17:14,972 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:17:15,055 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:17:16,327 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:17:16,391 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:17:16,392 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:17:16,486 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:17:17,524 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:17:17,525 INFO main [Tools.Tool.MyUpload]info 生成随机数xB3wK1Sw1843JtR9z207
+2018-03-10 13:17:17,642 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:17:17,864 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:17:19,865 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:17:20,982 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:17:21,218 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:17:25,866 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:17:25,866 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:17:27,977 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:17:28,133 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:17:30,135 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:17:31,237 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:17:31,373 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:17:33,438 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:17:33,438 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:17:33,514 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：xB3wK1Sw1843JtR9z207
+2018-03-10 13:17:33,652 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:17:33,776 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:17:33,868 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:17:33,941 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:17:34,010 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:17:34,089 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:17:34,162 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:17:34,240 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:17:34,323 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:17:34,403 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:17:34,476 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:17:34,588 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:17:34,675 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:17:34,739 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:17:34,740 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:17:34,740 INFO main [Tools.Tool.MyUpload]info 3
+2018-03-10 13:17:34,856 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:17:35,986 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:17:36,075 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:17:36,138 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:17:36,205 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:17:36,275 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:17:36,344 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:17:36,421 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:17:36,490 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:17:36,557 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:17:36,632 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:17:36,708 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:17:36,788 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:17:36,851 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:17:36,918 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:17:36,980 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:17:37,047 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:17:37,121 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:17:37,187 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:17:37,253 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:17:37,325 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:17:37,393 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:17:37,458 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:17:37,518 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:17:37,587 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:17:37,651 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:17:37,720 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：HGBM2
+2018-03-10 13:17:37,799 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:17:37,868 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：PP2
+2018-03-10 13:17:37,942 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:17:38,366 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:19:19,900 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:19:24,258 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:19:24,922 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:19:25,061 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:19:25,140 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:19:26,378 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:19:26,446 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:19:26,447 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:19:26,552 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:19:27,601 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:19:27,603 INFO main [Tools.Tool.MyUpload]info 生成随机数T6AhipYEX43096VFSxwO
+2018-03-10 13:19:27,734 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:19:28,003 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:19:30,004 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:19:31,112 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:19:31,351 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:19:37,545 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:19:37,545 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:19:39,647 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:19:39,798 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:19:41,798 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:19:42,914 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:19:53,152 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: popup_ok查找失败
+2018-03-10 13:19:53,502 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:20:08,596 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:20:13,945 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:20:14,476 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:20:14,613 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:20:14,696 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:20:15,792 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:20:15,856 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:20:15,856 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:20:15,957 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:20:16,996 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:20:16,997 INFO main [Tools.Tool.MyUpload]info 生成随机数e73pWx6gdOc1v0U32sQv
+2018-03-10 13:20:17,100 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:20:17,332 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:20:19,333 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:20:20,470 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:20:20,781 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:20:27,462 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:20:27,463 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:20:29,563 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:20:29,713 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:20:31,713 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:20:32,831 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:20:32,968 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:20:35,029 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:20:35,029 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:20:35,107 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：e73pWx6gdOc1v0U32sQv
+2018-03-10 13:20:35,238 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:20:35,359 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:20:35,454 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:20:35,539 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:20:35,607 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:20:35,675 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:20:35,757 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:20:35,840 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:20:35,940 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:20:36,041 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:20:36,124 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:20:36,209 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:20:36,284 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:20:36,355 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:20:42,173 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:20:42,174 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:20:42,453 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:20:43,663 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:20:43,725 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:20:43,785 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:20:43,842 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:20:43,905 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:20:43,976 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:20:44,053 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:20:44,111 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:20:44,171 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:20:44,242 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:20:44,358 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:20:44,410 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:20:44,467 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:20:44,533 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:20:44,583 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:20:44,639 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:20:44,693 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:20:44,750 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:20:44,803 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:20:45,649 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:21:12,839 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:21:16,890 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:21:17,426 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:21:17,574 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:21:17,651 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:21:19,075 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:21:19,105 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:21:19,105 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:21:19,196 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:21:20,235 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:21:20,237 INFO main [Tools.Tool.MyUpload]info 生成随机数5r24wN0D7BLq9E27ZZeU
+2018-03-10 13:21:20,335 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:21:20,585 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:21:22,586 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:21:23,690 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:21:23,945 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:21:28,074 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:21:28,074 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:21:30,184 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:21:30,336 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:21:32,336 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:21:33,437 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:21:33,571 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:21:35,639 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:21:35,639 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:21:35,717 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：5r24wN0D7BLq9E27ZZeU
+2018-03-10 13:21:35,863 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:21:35,984 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:21:36,085 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:21:36,158 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:21:36,226 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:21:36,305 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:21:36,380 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:21:36,458 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:21:36,551 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:21:36,639 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:21:36,721 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:21:36,809 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:21:36,889 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:21:36,962 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:21:49,485 INFO main [Tools.Tool.MyUpload]info 5
+2018-03-10 13:21:56,359 INFO main [Tools.Tool.MyUpload]info 5
+2018-03-10 13:22:21,404 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:22:44,440 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:22:44,909 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:22:45,218 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:22:45,524 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:22:45,864 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:22:46,165 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:22:46,500 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:22:46,829 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:22:47,231 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:22:54,632 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:22:55,866 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:22:56,185 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:22:56,488 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:22:56,761 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:22:57,025 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:22:57,254 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:22:57,498 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:22:57,739 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:22:57,970 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:22:59,650 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:23:00,331 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:23:00,592 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:23:00,850 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:23:01,094 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:23:01,351 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:23:01,578 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：HGBM2
+2018-03-10 13:23:01,828 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:23:02,054 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：PP2
+2018-03-10 13:23:02,287 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:23:03,024 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:23:03,540 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 13:23:03,753 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 13:23:03,994 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 13:23:04,233 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 13:23:04,451 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 13:23:04,707 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：HGBM3
+2018-03-10 13:23:04,942 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 13:23:05,190 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：PP3
+2018-03-10 13:23:05,406 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 13:23:06,193 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:23:07,149 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[2]/input输入：EnglishName4
+2018-03-10 13:23:07,367 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[3]/input输入：中文名
+2018-03-10 13:23:07,603 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[4]/input输入：6
+2018-03-10 13:23:07,844 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[5]/input输入：6
+2018-03-10 13:23:08,080 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[6]/input输入：6
+2018-03-10 13:23:08,336 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[8]/input输入：HGBM4
+2018-03-10 13:23:08,601 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[9]/input输入：baidu.com
+2018-03-10 13:23:09,066 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[10]/input输入：PP4
+2018-03-10 13:23:09,692 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[11]/input输入：XH4
+2018-03-10 13:24:01,537 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:24:07,802 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:24:08,390 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:24:08,527 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:24:08,602 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:24:09,957 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:24:10,021 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:24:10,022 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:24:10,122 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:24:11,160 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:24:11,162 INFO main [Tools.Tool.MyUpload]info 生成随机数7yW3w6OXC942n97R1X41
+2018-03-10 13:24:11,263 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:24:11,497 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:24:13,499 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:24:14,622 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:24:14,877 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:24:20,013 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:24:20,014 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:24:22,118 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:24:22,268 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:24:24,269 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:24:25,385 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:24:25,524 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:24:27,580 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:24:27,580 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:24:27,660 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：7yW3w6OXC942n97R1X41
+2018-03-10 13:24:27,787 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:24:27,904 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:24:27,990 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:24:28,066 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:24:28,133 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:24:28,199 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:24:28,257 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:24:28,324 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:24:28,415 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:24:28,491 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:24:28,584 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:24:28,687 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:24:28,768 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:24:28,848 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:24:35,532 INFO main [Tools.Tool.MyUpload]info 3
+2018-03-10 13:24:38,360 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 13:24:46,312 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:24:56,884 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:24:57,134 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:24:57,511 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:24:57,817 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:24:58,107 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:24:58,399 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:24:58,679 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:24:58,976 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:24:59,268 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:25:20,094 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:25:21,096 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:25:21,591 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:25:22,096 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:25:22,529 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:25:22,949 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:25:23,403 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:25:23,860 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:25:24,289 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:25:24,832 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:25:36,876 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:25:37,701 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:25:38,062 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:25:38,400 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:25:38,752 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:25:39,056 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:25:39,513 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：HGBM2
+2018-03-10 13:25:39,997 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:25:40,536 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：PP2
+2018-03-10 13:25:41,382 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:27:04,795 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:29:17,778 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:29:22,056 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:29:22,622 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:29:22,759 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:29:22,848 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:29:24,222 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:29:24,250 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:29:24,250 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:29:24,351 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:29:25,396 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:29:25,398 INFO main [Tools.Tool.MyUpload]info 生成随机数Axe225eq32o6bs1Jx92I
+2018-03-10 13:29:25,514 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:29:25,734 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:29:27,735 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:29:28,839 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:29:29,083 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:29:33,212 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:29:33,213 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:29:35,327 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:29:35,496 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:29:37,496 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:29:38,597 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:29:38,732 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:29:40,797 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:29:40,797 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:29:40,878 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：Axe225eq32o6bs1Jx92I
+2018-03-10 13:29:41,032 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:29:41,157 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:29:41,245 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:29:41,321 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:29:41,389 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:29:41,461 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:29:41,534 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:29:41,614 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:29:41,700 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:29:41,783 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:29:41,868 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:29:41,977 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:29:42,054 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:29:42,121 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:29:42,122 INFO main [Tools.Tool.MyUpload]info 3
+2018-03-10 13:29:42,122 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:29:42,234 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:29:43,362 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:29:43,442 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:29:43,506 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:29:43,582 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:29:43,645 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:29:43,717 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:29:43,802 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:29:43,871 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:29:43,940 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:29:44,015 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:29:44,116 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:29:44,183 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:29:44,249 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:29:44,309 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:29:44,368 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:29:44,442 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:29:44,517 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:29:44,581 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:29:44,649 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:29:44,718 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:29:44,787 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:29:44,859 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:29:44,920 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:29:44,996 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:29:45,063 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:29:45,135 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：HGBM2
+2018-03-10 13:29:45,213 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:29:45,283 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：PP2
+2018-03-10 13:29:45,364 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:29:45,765 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:30:38,548 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:30:43,317 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:30:43,974 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:30:44,131 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:30:44,214 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:30:45,338 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:30:45,403 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:30:45,404 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:30:45,506 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:30:46,541 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:30:46,543 INFO main [Tools.Tool.MyUpload]info 生成随机数Gs3ph1XMQke15TEGmp18
+2018-03-10 13:30:46,651 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:30:46,869 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:30:48,870 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:30:49,980 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:30:50,222 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:30:53,886 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:30:53,887 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:30:55,988 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:30:56,141 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:30:58,142 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:30:59,246 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:30:59,371 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:31:01,507 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:31:01,507 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:31:01,585 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：Gs3ph1XMQke15TEGmp18
+2018-03-10 13:31:01,731 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:31:01,857 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:31:01,947 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:31:02,020 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:31:02,084 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:31:02,148 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:31:02,217 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:31:02,287 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:31:02,366 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:31:02,464 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:31:02,534 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:31:02,622 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:31:02,716 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:31:02,787 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:31:02,787 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:31:02,788 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:31:02,903 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:31:04,018 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:31:04,112 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:31:04,170 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:31:04,234 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:31:04,297 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:31:04,369 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:31:04,447 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:31:04,520 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:31:04,586 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:31:04,663 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:31:04,736 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:31:04,822 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:31:04,887 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:31:04,951 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:31:05,013 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:31:05,080 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:31:05,152 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:31:05,214 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:31:05,284 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:31:05,401 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:31:07,512 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 13:31:08,609 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:31:08,679 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:31:08,734 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:31:08,797 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:31:08,855 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:31:08,922 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:31:08,990 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:31:09,051 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:31:09,117 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:31:09,191 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:31:09,255 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:31:09,330 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:31:09,384 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:31:09,445 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:31:09,500 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:31:09,580 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：HGBM1
+2018-03-10 13:31:09,664 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:31:09,721 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：PP1
+2018-03-10 13:31:09,780 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:31:09,902 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:31:12,165 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:33:16,330 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:33:21,471 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:33:22,436 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:33:22,581 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:33:22,657 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:33:24,123 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:33:24,165 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:33:24,165 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:33:24,262 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:33:25,301 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:33:25,302 INFO main [Tools.Tool.MyUpload]info 生成随机数7RCe6837kTN5225z8916
+2018-03-10 13:33:25,399 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:33:25,621 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:33:27,622 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:33:28,751 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:33:29,000 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:33:34,645 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:33:34,646 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:33:36,746 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:33:36,890 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:33:38,890 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:33:40,011 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:33:40,148 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:33:42,207 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:33:42,207 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:33:42,285 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：7RCe6837kTN5225z8916
+2018-03-10 13:33:42,418 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:33:42,547 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:33:42,622 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：46543
+2018-03-10 13:33:42,703 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:33:42,762 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:33:42,832 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:33:42,899 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:33:42,969 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:33:43,045 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：46543
+2018-03-10 13:33:43,131 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:33:43,220 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:33:43,332 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:33:43,413 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:33:43,479 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:33:43,479 INFO main [Tools.Tool.MyUpload]info 1
+2018-03-10 13:33:43,479 INFO main [Tools.Tool.MyUpload]info 1
+2018-03-10 13:33:43,601 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:33:44,783 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:33:44,915 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:33:44,982 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:33:45,049 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:33:45,115 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:33:45,201 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:33:45,279 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:33:45,352 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:33:45,422 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:33:45,524 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:33:47,603 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 13:33:48,679 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:33:48,736 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:33:48,791 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:33:48,848 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:33:48,911 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:33:48,981 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：HGBM0
+2018-03-10 13:33:49,054 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:33:49,114 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：PP0
+2018-03-10 13:33:49,177 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:33:49,245 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:33:51,360 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //div[@class='TextList']/p[2]/label/span[1]/input
+2018-03-10 13:33:51,539 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@value='提交预报']
+2018-03-10 13:34:06,732 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: success-tip查找失败
+2018-03-10 13:34:17,944 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: success-tip查找失败
+2018-03-10 13:34:19,013 INFO main [Tools.Tool.MyUpload]info 读取By.id: dialog-auto-alert-tip文本信息:服务异常：订单验证失败
+(申报信息1-1)海关编码必须为10位纯数字
+(申报信息1-1)品牌为10个字符的中文与字母组合
+(申报信息2)申报箱号不能重复
+(申报信息2-1)海关编码必须为10位纯数字
+(申报信息2-1)品牌为10个字符的中文与字母组合
+2018-03-10 13:34:19,466 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:39:21,218 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:39:25,381 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:39:26,097 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:39:26,236 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:39:26,320 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:39:27,796 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:39:27,822 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:39:27,822 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:39:27,918 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:39:28,958 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:39:28,959 INFO main [Tools.Tool.MyUpload]info 生成随机数99R5m8Woz25E7mqRQ5So
+2018-03-10 13:39:29,064 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:39:29,279 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:39:31,279 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:39:32,383 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:39:32,637 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:39:36,771 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:39:36,771 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:39:38,881 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:39:39,041 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:39:41,042 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:39:42,144 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:39:42,283 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:39:44,362 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:39:44,363 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:39:44,443 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：99R5m8Woz25E7mqRQ5So
+2018-03-10 13:39:44,596 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:39:44,716 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:39:44,716 INFO main [Tools.Tool.MyUpload]info 764071
+2018-03-10 13:39:44,812 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：764071
+2018-03-10 13:39:44,885 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:39:44,958 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:39:45,029 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:39:45,103 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:39:45,202 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：5
+2018-03-10 13:39:45,202 INFO main [Tools.Tool.MyUpload]info 299818
+2018-03-10 13:39:45,303 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：299818
+2018-03-10 13:39:45,410 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:39:45,517 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:39:45,620 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:39:45,726 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:39:45,826 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：5
+2018-03-10 13:39:45,827 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 13:39:45,827 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 13:39:45,953 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:39:47,076 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:39:47,151 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:39:47,218 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:39:47,295 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:39:47,359 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:39:47,359 INFO main [Tools.Tool.MyUpload]info 1273488158
+2018-03-10 13:39:47,433 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：1273488158
+2018-03-10 13:39:47,514 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:39:47,587 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 13:39:47,660 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:39:47,732 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:39:47,832 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:39:47,911 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:39:47,976 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:39:48,053 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:39:48,109 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:39:48,110 INFO main [Tools.Tool.MyUpload]info 2486424764
+2018-03-10 13:39:48,179 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：2486424764
+2018-03-10 13:39:48,250 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:39:48,315 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 13:39:48,379 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:39:48,455 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:39:48,524 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:39:48,597 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:39:48,663 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:39:48,733 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:39:48,787 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:39:48,787 INFO main [Tools.Tool.MyUpload]info 4816755162
+2018-03-10 13:39:48,864 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：4816755162
+2018-03-10 13:39:48,930 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:39:48,998 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：品牌PP
+2018-03-10 13:39:49,095 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:39:49,169 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:39:49,239 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 13:39:49,303 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 13:39:49,385 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 13:39:49,480 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 13:39:49,650 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 13:39:49,651 INFO main [Tools.Tool.MyUpload]info 1779711391
+2018-03-10 13:39:49,744 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：1779711391
+2018-03-10 13:39:49,835 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 13:39:49,913 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：品牌PP
+2018-03-10 13:39:49,993 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 13:39:50,146 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:39:52,254 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 13:39:53,339 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:39:53,397 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:39:53,458 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:39:53,512 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:39:53,577 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:39:53,577 INFO main [Tools.Tool.MyUpload]info 1451374449
+2018-03-10 13:39:53,647 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：1451374449
+2018-03-10 13:39:53,716 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:39:53,783 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 13:39:53,847 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:39:53,921 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:39:54,008 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:39:54,067 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:39:54,124 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:39:54,181 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:39:54,247 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:39:54,248 INFO main [Tools.Tool.MyUpload]info 713549212
+2018-03-10 13:39:54,316 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：713549212
+2018-03-10 13:39:54,395 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:39:54,461 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 13:39:54,525 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:39:54,594 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:39:54,716 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:39:54,779 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:39:54,842 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:39:54,914 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:39:54,977 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:39:54,977 INFO main [Tools.Tool.MyUpload]info 3142796159
+2018-03-10 13:39:55,052 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：3142796159
+2018-03-10 13:39:55,126 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:39:55,197 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：品牌PP
+2018-03-10 13:39:55,262 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:39:55,331 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:39:55,428 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 13:39:55,495 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 13:39:55,563 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 13:39:55,627 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 13:39:55,726 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 13:39:55,726 INFO main [Tools.Tool.MyUpload]info 6936502704
+2018-03-10 13:39:55,846 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：6936502704
+2018-03-10 13:39:55,961 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 13:39:56,036 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：品牌PP
+2018-03-10 13:39:56,113 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 13:39:56,210 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:39:58,301 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //div[@class='TextList']/p[2]/label/span[1]/input
+2018-03-10 13:39:58,467 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@value='提交预报']
+2018-03-10 13:40:13,772 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: success-tip查找失败
+2018-03-10 13:40:24,979 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: success-tip查找失败
+2018-03-10 13:40:26,040 INFO main [Tools.Tool.MyUpload]info 读取By.id: dialog-auto-alert-tip文本信息:服务异常：订单验证失败
+(申报信息1)申报总重量必须大于等于内件重量和
+(申报信息2)申报总重量必须大于等于内件重量和
+2018-03-10 13:40:26,149 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: html/body/div[*]/div[3]/div/button
+2018-03-10 13:40:26,465 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 13:45:18,944 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:45:23,012 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:45:23,767 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:45:23,896 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:45:23,979 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:45:25,135 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:45:25,197 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:45:25,197 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:45:25,291 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:45:26,328 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:45:26,329 INFO main [Tools.Tool.MyUpload]info 生成随机数Mp5sOHPeHC887n9Hr5Ob
+2018-03-10 13:45:26,428 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:45:26,666 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:45:28,667 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:45:29,776 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:45:30,029 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:45:34,154 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:45:34,154 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:45:36,264 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:45:36,422 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:45:38,422 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:45:39,524 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:45:39,649 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:45:41,718 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:45:41,718 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:45:41,797 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：Mp5sOHPeHC887n9Hr5Ob
+2018-03-10 13:45:41,942 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:45:42,062 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:45:42,063 INFO main [Tools.Tool.MyUpload]info 393456
+2018-03-10 13:45:42,161 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：393456
+2018-03-10 13:45:42,233 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:45:42,297 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:45:42,360 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:45:42,424 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:45:42,509 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：50
+2018-03-10 13:45:42,509 INFO main [Tools.Tool.MyUpload]info 936482
+2018-03-10 13:45:42,594 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：936482
+2018-03-10 13:45:42,690 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:45:42,764 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:45:42,864 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:45:42,960 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:45:43,044 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：50
+2018-03-10 13:45:43,045 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 13:45:43,045 INFO main [Tools.Tool.MyUpload]info 1
+2018-03-10 13:45:43,159 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:45:44,281 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:45:44,360 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:45:44,421 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:45:44,480 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:45:44,556 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:45:44,556 INFO main [Tools.Tool.MyUpload]info 2158677283
+2018-03-10 13:45:44,625 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：2158677283
+2018-03-10 13:45:44,701 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:45:44,770 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 13:45:44,834 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:45:44,906 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:45:44,982 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:45:45,062 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:45:45,126 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:45:45,199 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:45:45,256 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:45:45,256 INFO main [Tools.Tool.MyUpload]info 3261038452
+2018-03-10 13:45:45,326 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：3261038452
+2018-03-10 13:45:45,395 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:45:45,462 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 13:45:45,523 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:45:45,594 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:45:45,662 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:45:45,729 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:45:45,807 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:45:45,872 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:45:45,941 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:45:45,941 INFO main [Tools.Tool.MyUpload]info 5932455576
+2018-03-10 13:45:46,013 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：5932455576
+2018-03-10 13:45:46,080 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:45:46,143 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：品牌PP
+2018-03-10 13:45:46,214 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:45:46,305 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:45:46,383 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 13:45:46,448 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 13:45:46,507 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 13:45:46,566 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 13:45:46,634 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 13:45:46,634 INFO main [Tools.Tool.MyUpload]info 2657260261
+2018-03-10 13:45:46,712 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：2657260261
+2018-03-10 13:45:46,780 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 13:45:46,856 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：品牌PP
+2018-03-10 13:45:46,924 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 13:45:47,112 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:45:49,239 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 13:45:50,331 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:45:50,393 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:45:50,457 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:45:50,523 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:45:50,591 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:45:50,591 INFO main [Tools.Tool.MyUpload]info 6992176727
+2018-03-10 13:45:50,663 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：6992176727
+2018-03-10 13:45:50,730 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:45:50,794 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 13:45:50,858 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:45:50,965 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:45:53,047 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //div[@class='TextList']/p[2]/label/span[1]/input
+2018-03-10 13:45:53,322 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@value='提交预报']
+2018-03-10 13:45:58,914 INFO main [Tools.Tool.MyUpload]info 读取By.id: success-tip文本信息:订单提交预报成功
+系统单号:TEST186811632
+2018-03-10 13:45:59,034 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //span[text()='录入下一条订单']/..
+2018-03-10 13:46:09,394 ERROR main [Tools.Tool.MyUpload]error 元素:By.xpath: //span[text()='录入下一条订单']/..查找失败
+2018-03-10 13:50:25,741 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:50:30,035 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:50:30,730 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:50:30,872 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:50:30,953 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:50:32,265 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:50:32,292 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:50:32,293 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:50:32,384 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:50:33,420 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:50:33,422 INFO main [Tools.Tool.MyUpload]info 生成随机数x163At8312744F1C1558
+2018-03-10 13:50:33,531 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:50:33,741 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:50:35,742 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:50:36,846 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:51:03,256 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 13:51:07,336 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 13:51:07,984 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 13:51:08,123 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 13:51:08,204 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 13:51:09,529 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 13:51:09,574 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 13:51:09,574 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 13:51:09,661 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 13:51:10,696 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 13:51:10,697 INFO main [Tools.Tool.MyUpload]info 生成随机数81K0tY4uP4QxAT08q33u
+2018-03-10 13:51:10,800 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:51:11,028 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 13:51:13,029 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 13:51:14,130 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 13:51:18,242 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:51:23,903 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 13:51:23,904 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 13:51:26,034 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:51:26,199 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 13:51:28,200 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 13:51:29,320 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 13:51:29,467 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 13:51:31,538 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 13:51:31,539 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 13:51:31,707 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：81K0tY4uP4QxAT08q33u
+2018-03-10 13:51:31,872 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 13:51:32,018 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 13:51:32,019 INFO main [Tools.Tool.MyUpload]info 241646
+2018-03-10 13:51:32,106 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：241646
+2018-03-10 13:51:32,193 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：fd4g6321
+2018-03-10 13:51:32,274 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 13:51:32,356 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 13:51:32,440 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 13:51:32,524 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：50
+2018-03-10 13:51:32,524 INFO main [Tools.Tool.MyUpload]info 305647
+2018-03-10 13:51:32,624 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：305647
+2018-03-10 13:51:32,747 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：fd4g6321
+2018-03-10 13:51:32,855 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 13:51:32,927 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 13:51:33,030 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 13:51:33,193 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：50
+2018-03-10 13:51:33,193 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 13:51:33,194 INFO main [Tools.Tool.MyUpload]info 5
+2018-03-10 13:51:33,305 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 13:51:34,432 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:51:34,498 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:51:34,563 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:51:34,628 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:51:34,695 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:51:34,695 INFO main [Tools.Tool.MyUpload]info 6495252982
+2018-03-10 13:51:34,782 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：6495252982
+2018-03-10 13:51:34,891 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:51:34,978 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 13:51:35,049 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:51:35,122 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:51:35,225 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:51:35,288 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:51:35,356 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:51:35,415 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:51:35,476 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:51:35,477 INFO main [Tools.Tool.MyUpload]info 5658625265
+2018-03-10 13:51:35,543 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：5658625265
+2018-03-10 13:51:35,611 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:51:35,675 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 13:51:35,740 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:51:35,846 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:51:37,973 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 13:51:39,072 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 13:51:39,137 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 13:51:39,195 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 13:51:39,252 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 13:51:39,314 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 13:51:39,315 INFO main [Tools.Tool.MyUpload]info 1964747396
+2018-03-10 13:51:39,389 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：1964747396
+2018-03-10 13:51:39,455 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 13:51:39,512 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 13:51:39,577 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 13:51:39,649 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:51:39,712 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 13:51:39,769 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 13:51:39,827 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 13:51:39,885 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 13:51:39,943 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 13:51:39,943 INFO main [Tools.Tool.MyUpload]info 3191056058
+2018-03-10 13:51:40,012 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：3191056058
+2018-03-10 13:51:40,094 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 13:51:40,157 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 13:51:40,224 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 13:51:40,291 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:51:40,361 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 13:51:40,424 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 13:51:40,479 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 13:51:40,531 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 13:51:40,593 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 13:51:40,593 INFO main [Tools.Tool.MyUpload]info 5522622216
+2018-03-10 13:51:40,678 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：5522622216
+2018-03-10 13:51:40,740 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 13:51:40,809 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：品牌PP
+2018-03-10 13:51:40,872 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 13:51:40,943 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:51:41,011 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 13:51:41,063 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 13:51:41,142 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 13:51:41,205 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 13:51:41,269 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 13:51:41,269 INFO main [Tools.Tool.MyUpload]info 9150940892
+2018-03-10 13:51:41,343 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：9150940892
+2018-03-10 13:51:41,411 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 13:51:41,473 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：品牌PP
+2018-03-10 13:51:41,540 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 13:51:41,607 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 13:51:41,684 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[2]/input输入：EnglishName4
+2018-03-10 13:51:41,756 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[3]/input输入：中文名
+2018-03-10 13:51:41,829 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[4]/input输入：6
+2018-03-10 13:51:41,898 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[5]/input输入：6
+2018-03-10 13:51:41,957 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[6]/input输入：6
+2018-03-10 13:51:41,957 INFO main [Tools.Tool.MyUpload]info 8915511392
+2018-03-10 13:51:42,029 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[8]/input输入：8915511392
+2018-03-10 13:51:42,116 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[9]/input输入：baidu.com
+2018-03-10 13:51:42,198 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[10]/input输入：品牌PP
+2018-03-10 13:51:42,273 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[5]/td[11]/input输入：XH4
+2018-03-10 13:51:42,402 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 13:51:44,508 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //div[@class='TextList']/p[2]/label/span[1]/input
+2018-03-10 13:51:44,684 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@value='提交预报']
+2018-03-10 13:51:50,324 INFO main [Tools.Tool.MyUpload]info 读取By.id: success-tip文本信息:订单提交预报成功
+系统单号:TEST186811726
+2018-03-10 13:51:50,448 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //span[text()='录入下一条订单']/..
+2018-03-10 13:51:50,771 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 14:21:25,181 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 14:21:29,454 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 14:21:30,000 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 14:21:30,142 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 14:21:30,218 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 14:21:31,527 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 14:21:31,550 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 14:21:31,550 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 14:21:31,650 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 14:21:32,692 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 14:21:32,693 INFO main [Tools.Tool.MyUpload]info 生成随机数q9w1Hr0x64R38qjD3yuF
+2018-03-10 14:21:32,807 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:21:33,031 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 14:21:35,032 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:21:36,141 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 14:21:36,385 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 14:21:41,025 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 14:21:41,026 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 14:21:43,139 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 14:21:43,292 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 14:21:45,292 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 14:21:46,395 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 14:21:46,531 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 14:21:48,599 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 14:21:48,599 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 14:21:48,677 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：q9w1Hr0x64R38qjD3yuF
+2018-03-10 14:21:48,826 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 14:21:48,949 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 14:21:48,950 INFO main [Tools.Tool.MyUpload]info 92860
+2018-03-10 14:21:49,034 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：92860
+2018-03-10 14:21:49,035 INFO main [Tools.Tool.MyUpload]info 生成随机数Fv20u
+2018-03-10 14:21:49,115 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：Fv20u
+2018-03-10 14:21:49,183 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 14:21:49,253 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 14:21:49,327 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 14:21:49,401 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：50
+2018-03-10 14:21:49,401 INFO main [Tools.Tool.MyUpload]info 625311
+2018-03-10 14:21:49,490 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：625311
+2018-03-10 14:21:49,491 INFO main [Tools.Tool.MyUpload]info 生成随机数92h8O
+2018-03-10 14:21:49,564 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：92h8O
+2018-03-10 14:21:49,644 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 14:21:49,750 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 14:21:49,842 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 14:21:49,912 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：50
+2018-03-10 14:21:49,913 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 14:21:49,913 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 14:21:50,014 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 14:21:51,131 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 14:21:51,211 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 14:21:51,274 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 14:21:51,342 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 14:21:51,417 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 14:21:51,418 INFO main [Tools.Tool.MyUpload]info 6071237939
+2018-03-10 14:21:51,496 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：6071237939
+2018-03-10 14:21:51,577 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 14:21:51,648 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 14:21:51,716 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 14:21:51,792 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:21:51,896 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 14:21:51,959 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 14:21:52,023 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 14:21:52,085 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 14:21:52,146 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 14:21:52,147 INFO main [Tools.Tool.MyUpload]info 8578351345
+2018-03-10 14:21:52,215 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：8578351345
+2018-03-10 14:21:52,291 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 14:21:52,359 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 14:21:52,425 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 14:21:52,498 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:21:52,570 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 14:21:52,646 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 14:21:52,709 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 14:21:52,776 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 14:21:52,844 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 14:21:52,845 INFO main [Tools.Tool.MyUpload]info 194696832
+2018-03-10 14:21:52,917 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：194696832
+2018-03-10 14:21:52,994 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 14:21:53,080 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：品牌PP
+2018-03-10 14:21:53,148 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 14:21:53,226 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:21:53,329 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 14:21:53,414 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 14:21:53,499 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 14:21:53,665 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 14:21:53,745 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 14:21:53,745 INFO main [Tools.Tool.MyUpload]info 9885888332
+2018-03-10 14:21:53,837 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：9885888332
+2018-03-10 14:21:53,925 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 14:21:53,999 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：品牌PP
+2018-03-10 14:21:54,074 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 14:21:54,222 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 14:21:56,339 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 14:21:57,420 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 14:21:57,476 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 14:21:57,531 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 14:21:57,584 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 14:21:57,657 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 14:21:57,658 INFO main [Tools.Tool.MyUpload]info 4982078327
+2018-03-10 14:21:57,728 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：4982078327
+2018-03-10 14:21:57,796 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 14:21:57,859 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 14:21:57,926 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 14:21:57,998 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:21:58,084 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 14:21:58,142 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 14:21:58,200 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 14:21:58,262 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 14:21:58,323 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 14:21:58,324 INFO main [Tools.Tool.MyUpload]info 8314343636
+2018-03-10 14:21:58,401 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：8314343636
+2018-03-10 14:21:58,486 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 14:21:58,544 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 14:21:58,599 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 14:21:58,675 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 14:22:00,774 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //div[@class='TextList']/p[2]/label/span[1]/input
+2018-03-10 14:22:00,943 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@value='提交预报']
+2018-03-10 14:22:06,706 INFO main [Tools.Tool.MyUpload]info 读取By.id: success-tip文本信息:订单提交预报成功
+系统单号:TEST186812147
+2018-03-10 14:22:06,979 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 14:33:55,791 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 14:34:00,045 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 14:34:00,689 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 14:34:00,820 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 14:34:00,906 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 14:34:02,174 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 14:34:02,203 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 14:34:02,204 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 14:34:02,293 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 14:34:03,334 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 14:34:03,335 INFO main [Tools.Tool.MyUpload]info 生成随机数3eNev2Kz4kTdl628Uc39
+2018-03-10 14:34:03,441 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:34:03,658 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 14:34:05,658 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:34:06,765 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 14:34:17,002 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: popup_ok查找失败
+2018-03-10 14:34:17,329 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 14:34:25,924 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 14:34:31,689 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 14:34:32,296 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 14:34:32,427 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 14:34:32,509 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 14:34:33,679 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 14:34:33,714 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 14:34:33,715 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 14:34:33,808 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 14:34:34,844 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 14:34:34,846 INFO main [Tools.Tool.MyUpload]info 生成随机数K90ngWeq8pe554Q3u62U
+2018-03-10 14:34:34,955 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:34:35,180 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 14:34:37,180 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:34:38,303 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 14:34:38,662 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 14:34:43,789 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 14:34:43,789 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 14:34:45,891 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 14:34:46,036 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 14:34:48,037 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 14:34:49,149 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 14:34:59,367 ERROR main [Tools.Tool.MyUpload]error 元素:By.id: popup_ok查找失败
+2018-03-10 14:34:59,688 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------
+2018-03-10 14:35:16,519 INFO main [Tools.Tool.MyUpload]info ------------------开始执行测试---------------
+2018-03-10 14:35:20,618 INFO main [Tools.Tool.MyUpload]info 火狐已经打开！
+2018-03-10 14:35:21,143 INFO main [Tools.Tool.MyUpload]info 打开网页：http://test.shipping.com/shipping/default/index/login
+2018-03-10 14:35:21,289 INFO main [Tools.Tool.MyUpload]info 在By.id: userName输入：Tian_Guo
+2018-03-10 14:35:21,366 INFO main [Tools.Tool.MyUpload]info 在By.id: userPass输入：Tianguo123*
+2018-03-10 14:35:22,594 INFO main [Tools.Tool.MyUpload]info 点击By.className: loginbtn
+2018-03-10 14:35:22,653 INFO main [Tools.Tool.MyUpload]info 读取By.className: username文本信息:田果
+2018-03-10 14:35:22,654 INFO main [Tools.Tool.MyUpload]info 中邮TMS前台登录成功
+2018-03-10 14:35:22,756 INFO main [Tools.Tool.MyUpload]info 点击By.linkText: EFBA录单-日本专线
+2018-03-10 14:35:23,794 INFO main [Tools.Tool.MyUpload]info 进入resultFrame成功
+2018-03-10 14:35:23,796 INFO main [Tools.Tool.MyUpload]info 生成随机数z268307btf3l29J8h5Tx
+2018-03-10 14:35:23,900 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:35:24,126 INFO main [Tools.Tool.MyUpload]info 点击By.id: invoice
+2018-03-10 14:35:26,127 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\Bill.xlsx
+2018-03-10 14:35:27,231 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid1
+2018-03-10 14:35:28,382 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 14:35:32,011 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation2文本信息:上传成功
+2018-03-10 14:35:32,011 INFO main [Tools.Tool.MyUpload]info 发票上传成功
+2018-03-10 14:35:34,114 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 14:35:34,270 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='invoicelist']
+2018-03-10 14:35:36,270 INFO main [Tools.Tool.MyUpload]info 已选择上传文件,路径为：E:\MyWork\ZY_CES\fileupload\FBAList.xlsx
+2018-03-10 14:35:37,368 INFO main [Tools.Tool.MyUpload]info 点击By.id: upid
+2018-03-10 14:35:37,492 INFO main [Tools.Tool.MyUpload]info 点击By.id: popup_ok
+2018-03-10 14:35:39,558 INFO main [Tools.Tool.MyUpload]info 读取By.id: frendInformation1文本信息:上传成功
+2018-03-10 14:35:39,559 INFO main [Tools.Tool.MyUpload]info 装箱清单上传成功
+2018-03-10 14:35:39,634 INFO main [Tools.Tool.MyUpload]info 在By.name: order[refer_hawbcode]输入：z268307btf3l29J8h5Tx
+2018-03-10 14:35:39,775 INFO main [Tools.Tool.MyUpload]info By.id: storage下拉框选择了第1个值
+2018-03-10 14:35:39,898 INFO main [Tools.Tool.MyUpload]info 点击By.id: addBox
+2018-03-10 14:35:39,899 INFO main [Tools.Tool.MyUpload]info 199407
+2018-03-10 14:35:39,992 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[2]/input输入：199407
+2018-03-10 14:35:39,993 INFO main [Tools.Tool.MyUpload]info 生成随机数2C561
+2018-03-10 14:35:40,061 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[3]/input输入：2C561
+2018-03-10 14:35:40,126 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[4]/input输入：100
+2018-03-10 14:35:40,192 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[5]/input输入：100
+2018-03-10 14:35:40,270 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[6]/input输入：100
+2018-03-10 14:35:40,341 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[2]/div[7]/input输入：50
+2018-03-10 14:35:40,341 INFO main [Tools.Tool.MyUpload]info 60531
+2018-03-10 14:35:40,421 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[2]/input输入：60531
+2018-03-10 14:35:40,421 INFO main [Tools.Tool.MyUpload]info 生成随机数8z4i4
+2018-03-10 14:35:40,509 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[3]/input输入：8z4i4
+2018-03-10 14:35:40,582 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[4]/input输入：100
+2018-03-10 14:35:40,674 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[5]/input输入：100
+2018-03-10 14:35:40,773 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[6]/input输入：100
+2018-03-10 14:35:40,855 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //*[@id='getInvoice']/div[3]/div[7]/input输入：50
+2018-03-10 14:35:40,856 INFO main [Tools.Tool.MyUpload]info 4
+2018-03-10 14:35:40,856 INFO main [Tools.Tool.MyUpload]info 2
+2018-03-10 14:35:40,961 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[2]/div[8]/button[1]
+2018-03-10 14:35:42,075 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 14:35:42,155 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 14:35:42,221 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 14:35:42,287 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 14:35:42,352 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 14:35:42,352 INFO main [Tools.Tool.MyUpload]info 4414961277
+2018-03-10 14:35:42,425 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：4414961277
+2018-03-10 14:35:42,499 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 14:35:42,576 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 14:35:42,647 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 14:35:42,719 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:35:42,803 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 14:35:42,878 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 14:35:42,943 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 14:35:43,008 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 14:35:43,063 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 14:35:43,063 INFO main [Tools.Tool.MyUpload]info 4572141824
+2018-03-10 14:35:43,141 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：4572141824
+2018-03-10 14:35:43,211 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 14:35:43,271 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 14:35:43,335 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 14:35:43,403 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:35:43,480 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[2]/input输入：EnglishName2
+2018-03-10 14:35:43,539 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[3]/input输入：中文名
+2018-03-10 14:35:43,602 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[4]/input输入：4
+2018-03-10 14:35:43,670 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[5]/input输入：4
+2018-03-10 14:35:43,737 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[6]/input输入：4
+2018-03-10 14:35:43,737 INFO main [Tools.Tool.MyUpload]info 3995179081
+2018-03-10 14:35:43,807 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[8]/input输入：3995179081
+2018-03-10 14:35:43,876 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[9]/input输入：baidu.com
+2018-03-10 14:35:43,948 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[10]/input输入：品牌PP
+2018-03-10 14:35:44,028 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[3]/td[11]/input输入：XH2
+2018-03-10 14:35:44,101 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:35:44,180 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[2]/input输入：EnglishName3
+2018-03-10 14:35:44,236 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[3]/input输入：中文名
+2018-03-10 14:35:44,293 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[4]/input输入：5
+2018-03-10 14:35:44,352 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[5]/input输入：5
+2018-03-10 14:35:44,419 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[6]/input输入：5
+2018-03-10 14:35:44,419 INFO main [Tools.Tool.MyUpload]info 8620074002
+2018-03-10 14:35:44,496 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[8]/input输入：8620074002
+2018-03-10 14:35:44,571 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[9]/input输入：baidu.com
+2018-03-10 14:35:44,641 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[10]/input输入：品牌PP
+2018-03-10 14:35:44,723 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[4]/td[11]/input输入：XH3
+2018-03-10 14:35:44,836 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 14:35:46,957 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@id='getInvoice']/div[3]/div[8]/button[1]
+2018-03-10 14:35:48,050 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[2]/input输入：EnglishName0
+2018-03-10 14:35:48,111 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[3]/input输入：中文名
+2018-03-10 14:35:48,172 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[4]/input输入：2
+2018-03-10 14:35:48,235 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[5]/input输入：2
+2018-03-10 14:35:48,294 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[6]/input输入：2
+2018-03-10 14:35:48,295 INFO main [Tools.Tool.MyUpload]info 3831810615
+2018-03-10 14:35:48,368 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[8]/input输入：3831810615
+2018-03-10 14:35:48,433 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[9]/input输入：baidu.com
+2018-03-10 14:35:48,495 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[10]/input输入：品牌PP
+2018-03-10 14:35:48,559 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[1]/td[11]/input输入：XH0
+2018-03-10 14:35:48,632 INFO main [Tools.Tool.MyUpload]info 点击By.className: addInvoiceRow
+2018-03-10 14:35:48,708 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[2]/input输入：EnglishName1
+2018-03-10 14:35:48,779 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[3]/input输入：中文名
+2018-03-10 14:35:48,837 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[4]/input输入：3
+2018-03-10 14:35:48,895 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[5]/input输入：3
+2018-03-10 14:35:48,962 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[6]/input输入：3
+2018-03-10 14:35:48,962 INFO main [Tools.Tool.MyUpload]info 3376174978
+2018-03-10 14:35:49,046 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[8]/input输入：3376174978
+2018-03-10 14:35:49,107 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[9]/input输入：baidu.com
+2018-03-10 14:35:49,168 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[10]/input输入：品牌PP
+2018-03-10 14:35:49,228 INFO main [Tools.Tool.MyUpload]info 在By.xpath: //tbody[@class='tbody1']/tr[2]/td[11]/input输入：XH1
+2018-03-10 14:35:49,309 INFO main [Tools.Tool.MyUpload]info 点击By.className: modal_invoice_sure
+2018-03-10 14:35:51,414 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //div[@class='TextList']/p[2]/label/span[1]/input
+2018-03-10 14:35:51,583 INFO main [Tools.Tool.MyUpload]info 点击By.xpath: //*[@value='提交预报']
+2018-03-10 14:35:57,190 INFO main [Tools.Tool.MyUpload]info 读取By.id: success-tip文本信息:订单提交预报成功
+系统单号:TEST186812343
+2018-03-10 14:35:57,687 INFO main [Tools.Tool.MyUpload]info -------------结束测试，并关闭退出浏览器-------------

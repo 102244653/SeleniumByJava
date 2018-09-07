@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="谷仓自动化测试" >
+    <test name="谷仓测试223">
+        <classes>
+            <class name="Test1"></class>
+            <class name="test2"></class>
+            <!--<class name="TestSuits.Test_FedEx"></class>-->
+            <!--<class name="TestSuits.Test_HKEMS"></class>-->
+            <!--<class name="TestSuits.Test_ESB"></class>-->
+            <!--<class name="TestSuits.Test_JapanFBA"></class>-->
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="Tools.MyListener.RetryListener"/>
+        <listener class-name="Tools.MyListener.TestNgListener"/>
+        <listener class-name="Tools.MyListener.TestReport"/>
+    </listeners>
+
+</suite>
+
+
